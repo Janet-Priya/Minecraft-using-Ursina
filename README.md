@@ -1,4 +1,4 @@
-## inecraft-using-Ursina
+## Minecraft-using-Ursina
  
 i was bored i made aa basic Minecrft structure using Python and it was easy to implement using the model Ursina which made it easier to create the baseline of it.
 
